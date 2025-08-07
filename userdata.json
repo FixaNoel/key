@@ -58,5 +58,11 @@
     "key": "NOEL-49187",
     "expirydate": "14-08-2025",
     "Allowoffline": true
+  },
+  {
+    "device_id": "abed509d311289e0",
+    "key": "NOEL-69469",
+    "expirydate": "23-12-2052",
+    "Allowoffline": true
   }
 ]
