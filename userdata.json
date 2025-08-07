@@ -34,5 +34,11 @@
     "key": "NOEL-80123",
     "expirydate": "23-12-2052",
     "Allowoffline": true
+  },
+  {
+    "device_id": "e17bcd963f7cd0a2",
+    "key": "NOEL-78512",
+    "expirydate": "14-08-2025",
+    "Allowoffline": true
   }
 ]
